@@ -1,0 +1,4 @@
+> const whurl ="https://discord.com/api/webhooks/738333577556656149/8d01HuBEJYIurQIpChwCLu9dK0nlJXZEZizmFTvOn2GnZo48rR24v5CkwftFi72C7lh0"<
+> const msg = {
+  "content": "hi i am your discord bot created by radical"
+  }
